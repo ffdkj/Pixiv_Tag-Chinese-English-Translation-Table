@@ -1,10 +1,10 @@
 # Pixiv Tag 中英文对照表 
 
-![Tag Count](https://count.getloli.com/@ffdkj_tags?name=ffdkj&theme=booru-lewd&padding=6&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&num=169438) 
+![Tag Count](https://count.getloli.com/@ffdkj_tags?name=ffdkj&theme=booru-lewd&padding=6&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&num=169437) 
 
 ## ***每日更新 !***
 
-截止10月09日 03:34 已收录并翻译 **169438**+ 条标签。
+截止10月10日 03:32 已收录并翻译 **169437**+ 条标签。
 
 收录所有 posts >= 100 的 tag，使用**Gemini3.1-flash-lite与Gemini3.5-flash-lite** 翻译 + 能工智人校对。如使用过程中遇到翻译错误可访问https://tagsuggest.zeabur.app 提交纠错或联系 2624696826a@gmail.com。
 
